@@ -20,4 +20,4 @@ EXPOSE 5000
 CMD ["flask", "run", "--host=0.0.0.0", "--port=5000"]
 
 # Add OCI label
-LABEL org.opencontainers.image.source=https://github.com/thomas-more-devops/docker-build-demo-KobeVanGestel
+LABEL org.opencontainers.image.source=https://github.com/KobiVG/docker-build-demo-KobeVanGestel
